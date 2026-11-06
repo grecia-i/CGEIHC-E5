@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ParqueCorredor.vcxproj" />
+  <Project Path="ParqueCorredor.vcxproj" Id="f6940480-f3dc-46ca-b17e-ca814487e02e" />
 </Solution>

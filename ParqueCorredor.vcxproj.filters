@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\14_Fresnel\14_Fresnel.cpp">
+    <ClCompile Include="..\14_Fresnel\base.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="..\14_Fresnel\stb_image.cpp">
