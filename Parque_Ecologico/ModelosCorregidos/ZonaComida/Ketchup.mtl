@@ -1,0 +1,22 @@
+# Blender 4.5.4 LTS MTL File: 'carrinho de hot dog .blend'
+# www.blender.org
+
+newmtl Material
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Proyecto Final/Zona de comida/textures/carrinho_de_HOT_DOG_textura.png
+
+newmtl Material.001
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Proyecto Final/Zona de comida/textures/carrinho_de_HOT_DOG_textura.png
